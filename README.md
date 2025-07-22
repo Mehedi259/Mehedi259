@@ -35,16 +35,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,linux,vscode,c,cpp,html,js,mysql" />
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zamansheikh&show_icons=true&theme=react&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamansheikh&layout=compact&theme=react&hide_border=true" height="150" />
-</div>
-
 ---
 
 <div align="center">
