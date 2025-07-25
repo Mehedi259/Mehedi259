@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mridul.dev404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/zamansheikh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/zamansheikh_404"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:mmridul207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mehedi-hasan-mridul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/MehediHasanMr15"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 </div>
@@ -25,7 +25,6 @@
 - 🎯 Focused on **Flutter**, **Firebase**, and **Clean Architecture**
 - 🧠 Currently learning **REST APIs**, **State Management (Bloc, GetX)**
 - 📱 Passion: Building useful mobile apps for real-world problems
-- 🛠️ Side Project: **[Campus Saga](https://github.com/zamansheikh/Campus-Saga)** – smart campus system
 - 🧪 Academic: Stock Market Analysis using AI (DSE project)
 
 ---
